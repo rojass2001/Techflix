@@ -1,0 +1,21 @@
+.header3{
+    display: flex;
+    width: 100%;
+    height: 70px;
+    
+    background-color: black;
+    padding-left: 10px;
+    
+}
+.techflix{
+    margin-top: 18px;
+}
+
+.b2{
+    background-color: red;
+    color:white;
+    width:95px;
+    height: 45px;
+    margin-left: 940px;
+    margin-top: 13px;
+}
